@@ -24,4 +24,4 @@
 * app-url - web link to an application
 * deploy-url - server local path or scp connection link
 *	deploy-user - server login for upload war file (ssh login)
-* deploy-password' - server password for upload war file (ssh password)
+* deploy-password - server password for upload war file (ssh password)
