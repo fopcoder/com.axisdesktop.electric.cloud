@@ -129,7 +129,7 @@ sub deploy	{
 	die "abstract method";
 }
 
-sub undaploy	{
+sub undeploy	{
 	die "abstract method";
 }
 
