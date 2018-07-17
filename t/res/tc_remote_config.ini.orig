@@ -1,0 +1,7 @@
+deploy-user=user
+deploy-password=pass
+deploy-url=scp://host/opt/tomcat/webapps
+app-url=http://host:port/sample
+app-file=/var/www/virtual/electric_cloud_test/t/res/sample.war
+app-server-user=login
+app-server-password=pass

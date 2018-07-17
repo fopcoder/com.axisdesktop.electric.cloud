@@ -1,0 +1,4 @@
+deploy-user=user
+deploy-password=password
+deploy-url=scp://host.com/tmp/testdeploy
+app-file=/var/www/virtual/electric_cloud_test/t/res/sample.war
